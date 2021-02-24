@@ -23,6 +23,7 @@
 | :---      |   :----:     |   :----:    |    :----:    |       ---: |
 |   1    |  Python语言  |    讲课     |     CZ      |     10 min     |
 
+
 | 时间段 |       内容       | 讲课 / 实践 |   分工    |        备注        |
 | :---      |   :----:     |   :----:    |    :----:    |       ---: |
 |   2    |  Python Numpy   |    讲课/实践     |     CZ    |    5 min      |
@@ -31,6 +32,14 @@
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   3       |  Matplotlib画图[notebook](matplotlib_python/plot.ipynb)   |  讲课    |     WHY/GM     |           |
 |   4       |    小练习   |   实践   |          |    想一想，做一做      |
+
+
+|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :---    |   :----:    |   :----:    |    :----:    | ---: |
+|    1    |   Python本地数据访问-基本I/O     |    讲课  |      WHY     |         |
+|    1    |   Python本地数据访问-Pandas I/O     |    讲课  |      WHY     |         |
+|    1    |   [Python数据访问notebook](PythonFBD/Python-Input_Output.ipynb)     |    实验  |      WHY/NYS     |         |
+
 
 
 | 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
