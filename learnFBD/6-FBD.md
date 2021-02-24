@@ -6,13 +6,6 @@
 |    0     | [回顾上节课](5-FBD.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 
 
-|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---    |   :----:    |   :----:    |    :----:    | ---: |
-|    1    |   Python本地数据访问-基本I/O     |    讲课  |      WHY     |         |
-|    1    |   Python本地数据访问-Pandas I/O     |    讲课  |      WHY     |         |
-|    1    |   [Python数据访问notebook](PythonFBD/Python-Input_Output.ipynb)     |    实验  |      WHY/NYS     |         |
-
-
 # 金融大数据-/模型基础
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
