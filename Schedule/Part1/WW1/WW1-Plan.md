@@ -25,8 +25,8 @@ Bring Your Laptop to Class.
 
 | 时间段   |    内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---:   |
-|    2     | [金融数据环境基础](../../../learnFBD/1-FBD.md)   |  讲课   |    CZ/GM/WHY     |    Git/Markdown/Python使用    |
-|    3     | 金融数据环境基础   |  实践操作   |   LC/DLR     |   20 min     |
+|    2     | [金融数据基础-1](../../../learnFBD/1-FBD.md)   |  讲课   |    CZ/GM/WHY     |    Git/Markdown/Python使用    |
+|    3     | 金融数据基础-1   |  实践操作   |   LC/DLR     |   45 min     |
 
 
 | 时间段    |    内容    | 讲课 / 实践     |  分工  |   备注       |
