@@ -10,18 +10,18 @@
 
 | 时间段 | 内容                                     | 讲课 / 实践 | 分工    | 备注             |
 | :---   |   :----:    |   :----:    |    :----:    |       ---: |
-|  0     | Python软件安装 | 实践        | SDY/    | 推荐用官网安装python， 云盘链接软件，U盘|
-|  0     | Jupyter Notebook安装/设置  | 实践        | SDY/    | 推荐用官网安装python， 云盘链接软件，U盘|
+|  0     | Python软件安装 | 实践        | TAs    | 推荐用官网安装python， 云盘链接软件，U盘|
+|  0     | Jupyter Notebook安装/设置  | 实践        |   | 推荐用官网安装python， 云盘链接软件，U盘|
 
 
 | 时间段 | 内容                                     | 讲课 / 实践 | 分工    | 备注               |
 | :---   |   :----:    |   :----:    |    :----:    |       ---: |
-|  1     | Python编程语言                           | 讲课        | CZ      |                 |
-|  1    | 打开notebook        | 实践        | SDY/NYS |       print(hello world!)         |
+|  1     | Python编程语言  | 讲课        | CZ      |                 |
+|  1     |  打开notebook        | 实践        | SDY/NYS |       print(hello world!)         |
 
 | 时间段 |       内容       | 讲课 / 实践 |   分工    |        备注        |
 | :---      |   :----:     |   :----:    |    :----:    |       ---: |
-|   1    |  Python语言  |    讲课     |     CZ      |     10 min     |
+|   1    |  Python语言-类与基础  |    讲课     |     CZ      |     15 min     |
 
 
 | 时间段 |       内容       | 讲课 / 实践 |   分工    |        备注        |
@@ -34,14 +34,6 @@
 |   4       |    小练习   |   实践   |          |    想一想，做一做      |
 
 
-|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---    |   :----:    |   :----:    |    :----:    | ---: |
-|    1    |   Python本地数据访问-基本I/O     |    讲课  |      WHY     |         |
-|    1    |   Python本地数据访问-Pandas I/O     |    讲课  |      WHY     |         |
-|    1    |   [Python数据访问notebook](PythonFBD/Python-Input_Output.ipynb)     |    实验  |      WHY/NYS     |         |
-
-
-
 | 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   5    |   Python-Pandas数据分析[notebook](python/plot.ipynb)    |    讲课     |   NYS   |         |  
@@ -52,6 +44,14 @@
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   7    |   Python—Seaborn库使用[notebook](python/plot.ipynb)   |    讲课     |   SDY   |         |  
 |   8    |   Python—Seaborn示例  |    讲课     |      |         |  
+
+
+
+|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :---    |   :----:    |   :----:    |    :----:    | ---: |
+|    1    |   Python本地数据访问-基本I/O     |    讲课  |      WHY     |         |
+|    1    |   Python本地数据访问-Pandas I/O     |    讲课  |      WHY     |         |
+|    1    |   [Python数据访问notebook](PythonFBD/Python-Input_Output.ipynb)     |    实验  |      WHY/NYS     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
