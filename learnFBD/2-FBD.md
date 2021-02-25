@@ -16,42 +16,12 @@
 
 | 时间段 | 内容                                     | 讲课 / 实践 | 分工    | 备注               |
 | :---   |   :----:    |   :----:    |    :----:    |       ---: |
-|  1     | Python编程语言  | 讲课        | CZ      |                 |
-|  1     |  打开notebook        | 实践        | SDY/NYS |       print(hello world!)         |
+|  1     |  Python编程语言  | 讲课        | CZ      |            45 min           |
+|  1     |  打开notebook    | 实践        | SDY/NYS |       print(hello world!)         |
 
 | 时间段 |       内容       | 讲课 / 实践 |   分工    |        备注        |
-| :---      |   :----:     |   :----:    |    :----:    |       ---: |
-|   1    |  Python语言-类与基础  |    讲课     |     CZ      |     15 min     |
-
-
-| 时间段 |       内容       | 讲课 / 实践 |   分工    |        备注        |
-| :---      |   :----:     |   :----:    |    :----:    |       ---: |
-|   2    |  Python Numpy   |    讲课/实践     |     CZ    |    5 min      |
-
-|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   3       |  Matplotlib画图[notebook](matplotlib_python/plot.ipynb)   |  讲课    |     WHY/GM     |           |
-|   4       |    小练习   |   实践   |          |    想一想，做一做      |
-
-
-| 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   5    |   Python-Pandas数据分析[notebook](python/plot.ipynb)    |    讲课     |   NYS   |         |  
-|   6    |   Pandas 画图 plot   |    实践     |      |         |  
-
-
-| 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   7    |   Python—Seaborn库使用[notebook](python/plot.ipynb)   |    讲课     |   SDY   |         |  
-|   8    |   Python—Seaborn示例  |    讲课     |      |         |  
-
-
-
-|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---    |   :----:    |   :----:    |    :----:    | ---: |
-|    1    |   Python本地数据访问-基本I/O     |    讲课  |      WHY     |         |
-|    1    |   Python本地数据访问-Pandas I/O     |    讲课  |      WHY     |         |
-|    1    |   [Python数据访问notebook](PythonFBD/Python-Input_Output.ipynb)     |    实验  |      WHY/NYS     |         |
+| :---   |   :----:     |   :----:    |    :----:    |       ---: |
+|   1    |  Python语言-类与基础  |    讲课     |     CZ      |  15 min  |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
