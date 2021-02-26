@@ -12,7 +12,7 @@
 | :---   |   :----:    |   :----:    |    :----:    |       ---: |
 |  0     | Python软件安装 | 实践        | TAs    | 推荐用官网安装python， 云盘链接软件，U盘|
 |  0     | Jupyter Notebook安装/设置  | 实践        |   |   |
-|  1     |  打开notebook    | 实践        | SDY/NYS |       print(hello world!)         |
+|  1     |  Visual Code 打开notebook    | 实践        | SDY/NYS |       print(hello world!)         |
 
 
 | 时间段 | 内容                                     | 讲课 / 实践 | 分工    | 备注               |
