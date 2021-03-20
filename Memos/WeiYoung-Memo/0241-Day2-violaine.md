@@ -136,4 +136,37 @@ VI. 你在确定头寸规模方面怎样把握？
 - Visual Studio Code
 
 # Python语言基础知识
-to be continued  
+请用空格缩进  
+python[关键字](https://www.w3school.com.cn/python/python_ref_keywords.asp)列表可以在keyword[模块](https://www.runoob.com/python/python-modules.html)中找到：  
+import keyword as kwd  
+print(kwd.kwlist)  
+## Python数据类型与结构
+推荐阅读文档：http://docs.python.org/3/library/stdtypes.html  
+### Python基本内建类型
+**字符串 string**  
+my_string='it is test'  
+my_string  
+type(my_string)  
+my_new_string=my_string.replace('is','will be')  
+my_new_string  
+your_string='{} is fun'.format('Python')  
+your_string  
+[str.join()](https://www.runoob.com/python/att-string-join.html)  
+[str.strip()](https://www.runoob.com/python/att-string-strip.html)  
+[str.split()](https://www.runoob.com/python/att-string-split.html)  
+**整数 int**  
+a=2  
+b=3  
+c=a+b  
+print(c)  
+**浮点数 float**  
+**布尔值 bool**  
+### Python基本数据结构
+**List 列表 []**  
+**Set (unordered, unique) 集合 {}**  
+**Dictionary (mapping) 字典 {}**  
+**Tuple 元组 ()**  
+## Python语句与语法  
+## Python函数
+## Python类与OOP
+## Python模块
