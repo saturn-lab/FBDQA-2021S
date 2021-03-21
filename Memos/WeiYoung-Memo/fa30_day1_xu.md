@@ -1,6 +1,6 @@
 fa30_day1_xu.md
 
-
+老师，weiyoung-memo中我没有push权限，无法上传，请问是要上传到study-memo吗？
 
 ## 1)
 
