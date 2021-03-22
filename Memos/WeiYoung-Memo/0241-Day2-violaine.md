@@ -144,6 +144,7 @@ print(kwd.kwlist)
 推荐阅读文档：http://docs.python.org/3/library/stdtypes.html  
 ### Python基本内建类型
 **字符串 string**  
+```
 my_string='it is test'  
 my_string  
 type(my_string)  
@@ -151,22 +152,138 @@ my_new_string=my_string.replace('is','will be')
 my_new_string  
 your_string='{} is fun'.format('Python')  
 your_string  
+```
 [str.join()](https://www.runoob.com/python/att-string-join.html)  
 [str.strip()](https://www.runoob.com/python/att-string-strip.html)  
 [str.split()](https://www.runoob.com/python/att-string-split.html)  
 **整数 int**  
+```
 a=2  
 b=3  
 c=a+b  
 print(c)  
+```
 **浮点数 float**  
 **布尔值 bool**  
 ### Python基本数据结构
 **List 列表 []**  
+2D list（二维列表）  
+```
+list_of_list = [[1,2,3],[4,5,6],[7,8,9]]  
+```
+List comprehension（列表推导）  
+```
+init_a_list = [i for i in range(9)]  
+init_a_list = [i ** 2 for i in range(9)]  
+init_2d_list = [[i+j for i in range(5)] for j in range(9)]  
+```
+Insert/Pop（插入和弹出）  
+```
+my_list.insert(0,'stuff)  
+print(my_list.pop(0))  
+```
+列表排序  
+```
+random_list=[3,12,5,6]  
+sorted_list=sorted(random_list)  
+random_list=[(3,'A'),(12,'D'),(5,'M'),(6,'B')]  
+sorted_list=sorted(random_list,key=lambda x:x[1])  
+```
 **Set (unordered, unique) 集合 {}**  
+集合具有集合论的运算方法  
+```
+my_set={i ** 2 for i in range(10)}  
+my_set.add()  
+```
+用列表初始化集合，返回是无序、无重复的集合  
+集合的使用之一就是去掉列表中重复的数据  
+aset=set(alist)  
 **Dictionary (mapping) 字典 {}**  
+Dict Comprehension（字典推导式）  
+```
+my_dict = {i:i ** 2 for i in range(10)}  
+```
+Get dictionary keys, values（获取字典的键与值，依据字典的键获取相应的值）  
+```
+my_dict.keys()  
+my_dict.values()  
+my_dict[i]  
+```
 **Tuple 元组 ()**  
+```
+a_tuple = (1,0.2,'0.3','data')  
+a_tuple[3]  
+```
+tuple只有两种方法count()和index()，计算每个对象出现的次数和某个对象出现的位置  
 ## Python语句与语法  
+**Python程序的组成**  
+- Python的程序形式上分解为程序块、语句、表达式和对象  
+- 程序由程序块（Block）构成  
+- 程序块包含语句（statement）  
+- 语句包含表达式（expression）  
+- 表达式建立并处理对象（object）  
+
+**条件语句if-elif-else**  
+```
+val=50   
+if val>=100:  
+    print('val>=100)  
+elif val>10:  
+    print('100>val>10')  
+else:  
+    print('val<=10')  
+```
+**for循环**  
+```
+for item in my_list:  
+    print(item)  
+```
+**While循环**  
+```
+idx = 0  
+while idx<len(data):  
+    print(data[idx])  
+    idx += 1  
+```
 ## Python函数
+**函数定义**  
+def 函数名(参数):  
+**[定义主函数入口](https://blog.konghy.cn/2017/04/24/python-entry-program/)**  
+```
+if __name__ == '__main__ '  
+```
+**匿名函数lambda**  
+https://book.pythontips.com/en/latest/  
+Lambda是一个表达式，而不是一个语句  
+map会对一个序列对象中的每一个元素应用被传入的函数，并且返回一个包含所有函数调用结果的一个列表  
+```
+items = [1,2,3,4,5]  
+squared = list(map(lambda x: x ** 2,items))  
+```
 ## Python类与OOP
+**什么是类？**  
+- 类（Class）：某一类对象的抽象定义  
+- 对象（Object）：类的一个实例  
+- 属性（Attribute）：类（类属性）或者类实例（实例属性）的特征  
+- 方法（Method）：类可以实现的一个操作  
+- 参数（Parameters）：影响方法行为的输入  
+- 实例化（Instance）：根据某个抽象类创建具体对象的过程  
+- 类初始化（Initialize）：使用具体的参数初始化类  
+- 实例化（Instantiate）一个类，获得一个实例（Instance）         
+- 调用实例的方法（instance method）  
 ## Python模块
+**Python代码组织层次（逻辑上）**  
+代码块（Block）->函数（function）->类（class）->包（package）  
+**模块（modules）与包（package）**  
+- 模块就是*.py结尾Python源文件  
+- 包是一个目录，包含__init__.py文件和其它模块与包
+- python 通过import语句来引用包
+
+**Pip包管理工具**   
+- pip 是python的包管理工具(package manager)
+    - pip —version 查看pip版本和安装位置
+    - pip list 列出所有的安装的包
+- pip install/uninstall 安装/删除包
+
+**Python Debug**  
+使用pdb (python debugger)
