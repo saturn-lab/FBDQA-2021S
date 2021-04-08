@@ -12,11 +12,7 @@
 |    1    |   Python数学工具-积分与符号计算   |    讲课  |      GM    |     20 min    |
 |    1    |   [积分与符号计算notebook](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Computing/learnPython3/12_Math_Tools_积分.ipynb)     |    实验  |      GM/DLR     |         |
 
-|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---    |   :----:    |   :----:    |    :----:    | ---: |
-|    2    |   Python计算库     |    讲课  |      WHY     |    15 min     |
-|    2    |   [Python计算库notebook]()  |    实验  |      WHY/GM/LC     |         |
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
-|    3    | [展望下节课](12-FBD.md)，介绍本节课内容     |  讲课    |     CZ     |         |
+|    2    | [展望下节课](12-FBD.md)，介绍本节课内容     |  讲课    |     CZ     |         |
