@@ -12,9 +12,9 @@
 ## SQLite本地练习
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   1      |  Python SQLite   |   讲课    |     SDY     |   25 min      |
+|   1      |  Python SQLite   |   讲课    |     WHY/ZYS     |   25 min      |
 |   1      |  本地SQLite练习SQL语句 [SQLite练习](sqlite.ipynb)  |   实践    |    SDY     | 想一想，练一练 |
-|   1      |  安装DBeaver for SQLite    | 实践 |  SDY | 想一想，练一练 |
+|   1      |  DBeaver for SQLite    | 实践 |  SDY | 想一想，练一练 |
 
 
 ## SQL访问远端金融数据
