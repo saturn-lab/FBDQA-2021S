@@ -2,3 +2,5 @@
 - [第二周小结](../Study-Memo/T_036-Day2.md)
 - [第三周小结](../Study-Memo/T_036-Day3.md)
 - [第四周小结](../Study-Memo/T_036-Day4.md)
+- [第五周小结](../Study-Memo/T_036-Day5.md)
+- [第六周小结](../Study-Memo/T_036-Day6.md)
