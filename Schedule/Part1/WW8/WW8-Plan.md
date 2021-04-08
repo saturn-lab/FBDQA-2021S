@@ -22,7 +22,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
-|    4     | [金融大数据作业](../../../Course-Project/Project-2.md) | 讲课   |   LWW    |     10分钟       |
+|    4     | [金融大数据作业](../../../Course-Project/Project-2.md) | 讲课   |   DLR    |     10分钟       |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
