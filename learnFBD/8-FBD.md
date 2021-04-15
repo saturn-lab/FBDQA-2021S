@@ -9,19 +9,19 @@
 |    0     | [回顾上节课](7-FBD.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 
 
-## SQLite本地练习
-|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   1      |  Python SQLite   |   讲课    |     WHY/ZYS/GM     |   25 min      |
-|   1      |  本地SQLite练习SQL语句 [SQLite练习](sqlite.ipynb)  |   实践    |    DLR/LC     | 想一想，练一练 |
-|   1      |  DBeaver for SQLite    | 实践 |  SDY | 想一想，练一练 |
-
-
 ## SQL访问远端金融数据
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |  :----:  |   :----:    |    :----:    | ---: |
-|    2    |  远端金融数据访问： 安装Dbeaver   |   实践    |     WHY/GM     |   想一想，练一练   |
-|    2    |  远端金融数据访问：  Python notebook SQL     |   实践   |     WHY/GM     |    想一想，练一练     |
+|    1    |  远端金融数据访问： 安装Dbeaver   |   实践    |     WHY/GM     |   想一想，练一练   |
+|    1    |  远端金融数据访问：  Python notebook SQL     |   实践   |     WHY/GM     |    想一想，练一练     |
+
+
+## SQLite本地练习
+|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :---     |   :----:    |   :----:    |    :----:    | ---: |
+|   2      |  Python SQLite   |   讲课    |     WHY/ZYS/GM     |   25 min      |
+|   2      |  本地SQLite练习SQL语句 [SQLite练习](sqlite.ipynb)  |   实践    |    DLR/LC     | 想一想，练一练 |
+|   2      |  DBeaver for SQLite    | 实践 |  SDY | 想一想，练一练 |
 
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
