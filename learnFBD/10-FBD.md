@@ -11,13 +11,13 @@
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |   :----:    |   :----:    |    :----:    | ---: |
 |    1    |   Python数学工具-凸优化   |    讲课  |      GM    |     20 min    |
-|    2    |   [凸优化notebook](PythonFBD/)     |    实验  |      GM/DLR     |         |
+|    2    |   [凸优化notebook](https://github.com/yhilpisch/py4fi2nd/tree/master/code/ch11)     |    实验  |      GM/DLR     |         |
 
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |   :----:    |   :----:    |    :----:    | ---: |
 |    3    |   Python数学工具-逼近法（回归）     |    讲课  |      GM    |    20 min     |
-|    4    |   [逼近法notebook](PythonFBD/)     |    实验  |      GM/LC     |         |
+|    4    |   [逼近法notebook](https://github.com/yhilpisch/py4fi2nd/tree/master/code/ch11)     |    实验  |      GM/LC     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
