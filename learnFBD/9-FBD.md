@@ -7,7 +7,7 @@
 |  时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :-----  |   :----:    |   :----:    |    :----:    | ---: |
 |    1    |   Python计算库     |    讲课  |      WHY     |    20 min     |
-|    1    |   [Python计算库notebook](https://github.com/yhilpisch/py4fi2nd/tree/master/code/ch10)  |    实验  |      WHY/GM/LC     |         |
+|    1    |   [Python计算库notebook](https://github.com/yhilpisch/py4fi2nd/tree/master/code/ch10)  |    实验  |      WHY/GM/LC     |     10 min    |
 
 |  时间段 |  内容    | 讲课 / 实践     |  分工  |   备注   |
 | :----- |   :----:    |   :----:    |    :----:    |       ---: |
