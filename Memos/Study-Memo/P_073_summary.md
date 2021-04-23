@@ -14,3 +14,7 @@
 
 [第七周小结](../Study-Memo/P_073_Day7_jwy.md)
 
+[第八周小结](../Study-Memo/P_073_Day8_jwy.md)
+
+
+
