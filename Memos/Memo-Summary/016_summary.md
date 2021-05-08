@@ -7,7 +7,6 @@
 - [第7周小结](../Study-Memo/T_016_Day7.md)
 - [第8周小结](../Study-Memo/T_016_Day8.md)
 - [第9周小结](../Study-Memo/T_016_Day9.md)
-- [第10周小结](../Study-Memo/T_016_Day10.md)
 - [第11周小结](../Study-Memo/T_016_Day11.md)
 - [第12周小结](../Study-Memo/T_016_Day12.md)
 - [第13周小结](../Study-Memo/T_016_Day13.md)
