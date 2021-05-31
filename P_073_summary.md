@@ -24,5 +24,7 @@
 
 [第十二周小结](../Study-Memo/P_073_Day12_jwy.md)
 
+[第十三周小结](../Study-Memo/P_073_Day13_jwy.md)
 
+[第十四周小结](../Study-Memo/P_073_Day14_jwy.md)
 
