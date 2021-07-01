@@ -11,7 +11,7 @@ Financial Big Data and Quantitative Analytics, a.k.a FBDQA.
 
 ## 教师与助教
 
-Instructors: Hao Wang, [Zhen Chen](http://www.icenter.tsinghua.edu.cn/info/1060/1298.htm) , Yinfei Liu, Min Guo, Haoyu Wang
+Instructors: Hao Wang, [Zhen Chen](http://www.icenter.tsinghua.edu.cn/info/1060/1298.htm) , Zhan-Jiang Song, Min Guo, Haoyu Wang
 
 TAs: Li-rui Deng, Chen Liang
 
